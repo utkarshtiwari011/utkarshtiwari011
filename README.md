@@ -28,8 +28,36 @@
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,react,nodejs,flask,mongodb,mysql,tensorflow,docker,git,github,aws&perline=18&size=10"
-    alt="Tech Stack"
+    src="https://skillicons.dev/icons?i=c,cpp,css3,html5,java,javascript,go,python,typescript,netlify&perline=10&size=10"
+    alt="Languages & Platforms"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=firebase,render,aws,fastapi,express,django,flask,flutter,nextjs&perline=9&size=10"
+    alt="Backend, Cloud & Frameworks"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=nodejs,react,wordpress,tailwind,spring,mongodb,mysql&perline=9&size=10"
+    alt="Web Development & Databases"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=supabase,pandas,numpy,matplotlib,scikitlearn,pytorch,tensorflow,git&perline=8&size=10"
+    alt="AI, ML & Data"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=github,docker,notion,postman,kubernetes&perline=5&size=10"
+    alt="Tools & DevOps"
   />
 </p>
 
